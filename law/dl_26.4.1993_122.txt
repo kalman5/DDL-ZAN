@@ -23,8 +23,9 @@ dell’assistenza con la reclusione da sei mesi a quattro anni.
 movimenti o gruppi sono puniti, per ciò solo, con la reclusione da uno a 
 sei anni.”. 
 
-1-bis. Con la sentenza di condanna per uno dei reati previsti dall'articolo 
-3 della legge 13 ottobre 1975, n. 654(1), o per uno dei reati previsti dalla 
+1-bis. Con la sentenza di condanna per uno dei delitti di cui all’articolo 604-bis
+del codice penale ovvero per un delitto aggravato dalla circostanza di cui all’articolo
+604-ter del medesimo codice, o per uno dei reati previsti dalla 
 legge 9 ottobre 1967, n. 962, il tribunale può altresì disporre una o più 
 delle seguenti sanzioni accessorie: 
   a) obbligo di prestare un'attività non retribuita a favore della collettività 
@@ -40,14 +41,16 @@ delle seguenti sanzioni accessorie:
      elettorale per le elezioni politiche o amministrative successive alla 
      condanna, e comunque per un periodo non inferiore a tre anni. 
 
-1-ter. Entro trenta giorni dalla data di entrata in vigore della legge di 
-conversione del presente decreto, il Ministro di grazia e giustizia determina, 
-con proprio decreto, le modalità di svolgimento dell'attività non retribuita a 
-avore della collettività di cui al comma 1-bis, lettera a). 
+1-ter. Nel caso di condanna per uno dei delitti indicati al comma 1-bis, la 
+sospensione condizionale della pena può essere su-bordinata, se il condannato 
+non si oppone, alla prestazione di un’attività non retribuitaa favore della 
+collettività secondo quantoprevisto dai commi 1-quater, 1-quinquies e 1-sexies. 
+Per i medesimi delitti, nei casi dirichiesta dell’imputato di sospensione del
+procedimento con messa alla prova, per lavoro di pubblica utilità si intende 
+quanto previsto dai commi 1-quater, 1-quinquies e 1-sexies. 
 
-1-quater. L'attività non retribuita a favore della collettività, da svolgersi 
-al termine dell'espiazione della pena detentiva per un periodo massimo di dodici 
-settimane, deve essere determinata dal giudice con modalità tali da non pregiudicare 
+1-quater. L'attività non retribuita a favore della collettività è determinata dal 
+giudice, tenuto conto delle ragioni che hanno determinato la condotta, con modalità tali da non pregiudicare 
 le esigenze lavorative, di studio o di reinserimento sociale del condannato.
 
 1-quinquies. Possono costituire oggetto dell'attività non retribuita a favore 
@@ -56,7 +59,9 @@ e restauro degli edifici danneggiati con scritte, emblemi o simboli propri o usu
 delle organizzazioni, associazioni, movimenti o gruppi di cui al comma 3 dell'art. 3, 
 L. 13 ottobre 1975, n. 654; lo svolgimento di lavoro a favore di organizzazioni di 
 assistenza sociale e di volontariato, quali quelle operanti nei confronti delle 
-persone handicappate, dei tossicodipendenti, degli anziani o degli extracomunitari; 
+persone handicappate, dei tossicodipendenti, degli anziani, degli stranieri o a 
+favore delle associazioni di tutela delle vittime dei reati di cui all’articolo 
+604-bis del codicepenale; 
 la prestazione di lavoro per finalità di protezione civile, di tutela del patrimonio 
 ambientale e culturale, e per altre finalità pubbliche individuate con il decreto 
 di cui al comma 1-ter.
